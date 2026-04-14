@@ -1,0 +1,5 @@
+0 Tomato_Early_Blight
+1 Tomato_Leaf_Mold
+2 Potato_Early_Blight
+3 Corn_Common_Rust
+4 Tomato__healthy 

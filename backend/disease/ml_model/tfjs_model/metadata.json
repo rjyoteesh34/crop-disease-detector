@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.12","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-04-12T13:30:38.705Z","userMetadata":{},"modelName":"My image model proj(ml)","labels":["Tomato_Early_Blight","Tomato_Leaf_Mold","Potato_Early_Blight","Corn_Common_Rust","Tomato__healthy "],"imageSize":224}

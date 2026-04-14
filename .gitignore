@@ -1,0 +1,19 @@
+# Backend
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/media/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# ML Model (too large for GitHub)
+backend/disease/ml_model/tfjs_model/weights.bin
